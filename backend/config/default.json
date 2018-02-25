@@ -1,0 +1,11 @@
+{
+  "Customer": {
+    "dbConfig": {
+      "host":"192.168.178.25",
+      "user":"shoppinglist",
+      "password":"secret",
+      "database":"shoppinglist"
+    },
+    "serverPort": "1338"
+  }
+}
